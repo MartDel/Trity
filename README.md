@@ -30,3 +30,5 @@ Once finished, execute with:
 ---------------------------
 #### Will Trity work on Mac OSX
 ##### I am not sure because there is no way for me to test it, but if someone would like to and told me the results I would greatly appreciate it :-) Except that you would have to install the modules manually.
+
+PS: The "google search" doesn't work now
